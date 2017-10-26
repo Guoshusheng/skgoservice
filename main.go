@@ -1,4 +1,7 @@
-// routeMux project main.go
+// a http server written in golang
+// by sam kwok
+// on 2017-10-26
+// at changning shanghai
 package main
 
 import (
@@ -6,7 +9,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"./route"
+	"./samkwok/server/route"
 
 	"github.com/GeertJohan/go.rice"
 	"github.com/drone/config"
