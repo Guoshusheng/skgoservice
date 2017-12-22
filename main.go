@@ -10,9 +10,9 @@ import (
 	"net/http"
 	"time"
 
-	"./github.com/Guoshusheng/skgoservice/server/datastore"
-	"./github.com/Guoshusheng/skgoservice/server/datastore/database"
-	"./github.com/Guoshusheng/skgoservice/server/route"
+	"./server/datastore"
+	"./server/datastore/database"
+	"./server/route"
 
 	"code.google.com/p/go.net/context"
 
