@@ -43,7 +43,6 @@ var (
 
 func main() {
 	fmt.Println("Hello World!")
-	fmt.Println("I'm golang!")
 	fmt.Println("time.Now()->", time.Now())
 
 	expiration := time.Now()
